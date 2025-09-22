@@ -39,6 +39,7 @@ function App() {
     setky(0)
     setIndex(Array(3).fill(null))
     setEndGame(false)
+    setClassN(Array(9).fill("square"))
     SetMove(0);
   }
   function handClick(i){
