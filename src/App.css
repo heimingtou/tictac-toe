@@ -87,3 +87,8 @@ body{
   text-align: center;
   width: 80px;
 }
+.text{
+  color: white;
+  background-color: rgb(244, 136, 6);
+  border-radius: 8px;
+}

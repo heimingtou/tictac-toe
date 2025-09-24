@@ -2,12 +2,12 @@
   "name": "my-app",
   "private": true,
   "version": "0.0.0",
-   "homepage": "https://<heimingtou>.github.io/<tictac-toe>",
+   "homepage": "https://heimingtou.github.io/tictac-toe",
   
   "type": "module",
   "scripts": {
-    "predeploy": "npm run build",
-"deploy": "gh-pages -d dist",
+     "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
